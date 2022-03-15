@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel= "stylesheet" href="style1.css">
+</head>
+<div class= "topnav">
+<a class= "active"
+<div id="About us" align="left" style="background:none">
+<div id ="menu">
+<a href = "index3.html">HOME</a>
+<a href= "about.html">ABOUT</a>
+<a href= "contact.html">CONTACT</a>
+</div>
+
+<center><span style="color:#6495"><h2>BREAKFAST</h2></span></center>
+<div class="gallery">
+<a href= "product2.html"><img src= "IMGS/product2.jpg"/></a>
+<h4>BREAKFAST</h4>
+
+<body>
+<h1 title="List"> BOKOMO</h1>
+<style> table,th,tr,td {border 1px solid black;} </style>
+
+<table border="2">
+<tr><th>NUTRITIONAL INFORMATION</th> <th>AVAILABLE SELECTION</th><th>TOTAL FATN</th> <th>ON STOCK</th> <th>PRICE</th></tr>
+<tr><td>Energy(kj): 270, Protein: 12.4, Gylcemi Carbohydrates: 6</td><td>Bokomo Witbix</td><td>2.9</td><td>Yes</td><td>R33.45</td></tr>
+
+<img src="IMGS/product2a.jpg"><center><img src="IMGS/product2b.jpg"/></center><img src="IMGS/product2c.jpg">
+
+<div id ="BUY">
+<a href = "buy.html">BUY NOW</a>
+<a href="index3.html">back to home</a>
